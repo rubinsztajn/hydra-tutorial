@@ -637,7 +637,7 @@ class HydraTutorial < Thor
   ties the Record model to those view, if you look in the following
   directories of the application:
 
-      app/controlers/records_controller.rb
+      app/controllers/records_controller.rb
       app/views/records/\n}, STATEMENT
 
     continue_prompt
